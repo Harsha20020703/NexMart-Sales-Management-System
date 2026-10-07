@@ -8,7 +8,7 @@ public class DB {
 
 private static final String URL = "jdbc:mysql://localhost:3306/nexmart?useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true";
     private static final String USER = "root";
-    private static final String PASS = "";
+    private static final String PASS = "Harsha@123";
 
     private static Connection connection = null;
 
